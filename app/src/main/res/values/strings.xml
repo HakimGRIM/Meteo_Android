@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Meteo</string>
+    <string name="détails">Détails</string>
+    <string name="Ville">ville</string>
+    <string name="Pays">pays</string>
+    <string name="country_add">country_add</string>
+    <string name="city_add">city_add</string>
+</resources>

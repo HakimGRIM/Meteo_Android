@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/grim/.android/build-cache/227213233707f74c5aeceb50d6e69a796906c58e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/grim/AndroidStudioProjects/Meteo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b085c88ca131e5fba805e4d278eca99cd1b8cb3b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/grim/.android/build-cache/b300993d353e465d8fc10d41034816c563fff8f0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/grim/AndroidStudioProjects/Meteo/app/build/intermediates/pre-dexed/debug/classes_ce3b8f7f121642ca4e06218584a862319d4cac59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/grim/.android/build-cache/227213233707f74c5aeceb50d6e69a796906c58e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/grim/AndroidStudioProjects/Meteo/app/build/intermediates/pre-dexed/debug/classes_b085c88ca131e5fba805e4d278eca99cd1b8cb3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/grim/.android/build-cache/3c3326e60dcf27665397520f9a53e22c378ccb6b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/grim/AndroidStudioProjects/Meteo/app/build/intermediates/pre-dexed/debug/classes_d2e628fef3a421a478cb02b8b43467346aaba051.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/grim/.android/build-cache/3c3326e60dcf27665397520f9a53e22c378ccb6b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/grim/AndroidStudioProjects/Meteo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d2e628fef3a421a478cb02b8b43467346aaba051/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/grim/.android/build-cache/b300993d353e465d8fc10d41034816c563fff8f0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/grim/AndroidStudioProjects/Meteo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ce3b8f7f121642ca4e06218584a862319d4cac59/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/grim/.android/build-cache/d547d343df8b8293f9f7f49e0aac532b791dc155/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/grim/AndroidStudioProjects/Meteo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d49a0752ab3133f3100570c0668a03bb0aa362f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/grim/.android/build-cache/6683d5b5a6521c39dc5d2bd01bd44bf3a9da40de/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/grim/AndroidStudioProjects/Meteo/app/build/intermediates/pre-dexed/debug/classes_3a06a296441176ecae78a3e90088637e18753b29.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/grim/.android/build-cache/6683d5b5a6521c39dc5d2bd01bd44bf3a9da40de/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/grim/AndroidStudioProjects/Meteo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3a06a296441176ecae78a3e90088637e18753b29/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/grim/AndroidStudioProjects/Meteo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/grim/AndroidStudioProjects/Meteo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_be70c2d1caf83c559d183faa5c315bba4dce9b98/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/grim/.android/build-cache/d547d343df8b8293f9f7f49e0aac532b791dc155/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/grim/AndroidStudioProjects/Meteo/app/build/intermediates/pre-dexed/debug/classes_d49a0752ab3133f3100570c0668a03bb0aa362f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/grim/.android/build-cache/6c416148cf6441300f93fb222375543c7725e600/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/grim/AndroidStudioProjects/Meteo/app/build/intermediates/pre-dexed/debug/classes_0186c1a061d9e29f01cbb84e4d9a0f26f8dade52.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/grim/.android/build-cache/6c416148cf6441300f93fb222375543c7725e600/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/grim/AndroidStudioProjects/Meteo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0186c1a061d9e29f01cbb84e4d9a0f26f8dade52/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/grim/.android/build-cache/867a225f8d2adf22deed2ea2a9b5b4d9a2c207a7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/grim/AndroidStudioProjects/Meteo/app/build/intermediates/pre-dexed/debug/classes_4fbabdb07026c77cbe0b5ef005ff71435ca91599.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/grim/.android/build-cache/867a225f8d2adf22deed2ea2a9b5b4d9a2c207a7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/grim/AndroidStudioProjects/Meteo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4fbabdb07026c77cbe0b5ef005ff71435ca91599/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/grim/AndroidStudioProjects/Meteo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="543cb2f86745726368b6319ecd4cfdb7d513f3a6">
+        <dex dex="/home/grim/AndroidStudioProjects/Meteo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a71c2c3f17c8917e1f383b95f091661edc1a15fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/grim/.android/build-cache/3b157dc07ef2b4f58297783d6397fdc85568e9f4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/grim/AndroidStudioProjects/Meteo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ff96035039515af3860de178885377a11f761684/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/grim/.android/build-cache/ab67d695fba5060a150566079e799c08ed45879e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/grim/AndroidStudioProjects/Meteo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_15f170baa687a0022d760f24e30f4cb6af7d812e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/grim/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/grim/AndroidStudioProjects/Meteo/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_38f050add32f99a05a9ccef2dd50502e0d66679d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/grim/.android/build-cache/3b157dc07ef2b4f58297783d6397fdc85568e9f4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/grim/AndroidStudioProjects/Meteo/app/build/intermediates/pre-dexed/debug/classes_ff96035039515af3860de178885377a11f761684.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/grim/.android/build-cache/ab67d695fba5060a150566079e799c08ed45879e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/grim/AndroidStudioProjects/Meteo/app/build/intermediates/pre-dexed/debug/classes_15f170baa687a0022d760f24e30f4cb6af7d812e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/grim/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/grim/AndroidStudioProjects/Meteo/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_77034043957bdfd7bc0fa0f95b7b64bfd805c3e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/grim/.android/build-cache/3dbbae38f61bcaf784950b1b62fe58a79c6c14d7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/grim/AndroidStudioProjects/Meteo/app/build/intermediates/pre-dexed/debug/classes_d86fde39a3dcd13ab30de076e2616618a99edc80.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/grim/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/grim/AndroidStudioProjects/Meteo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_38f050add32f99a05a9ccef2dd50502e0d66679d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/grim/.android/build-cache/3dbbae38f61bcaf784950b1b62fe58a79c6c14d7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/grim/AndroidStudioProjects/Meteo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d86fde39a3dcd13ab30de076e2616618a99edc80/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/grim/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/grim/AndroidStudioProjects/Meteo/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_77034043957bdfd7bc0fa0f95b7b64bfd805c3e7/classes.dex" />
+    </item>
+
+</items>
